@@ -22,7 +22,6 @@ This is a queuing model in which the arrival is Marcovian and departure distribu
 
 ## Experiment:
 ![image](https://github.com/Vanitha-SM/Single-server-infinite-capacity---Markov-Model/assets/119557985/167967bf-5f56-4534-a09a-e09db679d7c3)
-![image](https://github.com/Vanitha-SM/Single-server-infinite-capacity---Markov-Model/assets/119557985/690532ac-7f0d-49b7-b580-33c28434f6a4)
  
 ## Program
 ```python
